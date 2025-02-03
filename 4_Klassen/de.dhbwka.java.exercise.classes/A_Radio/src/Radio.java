@@ -1,8 +1,8 @@
 public class Radio {
 
-    boolean on;
-    int volume;
-    double frequency;
+    private boolean on;
+    private int volume;
+    private double frequency;
 
 
     public Radio(boolean on, int volume, double frequency) {
