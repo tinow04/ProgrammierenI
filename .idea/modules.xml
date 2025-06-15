@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2_Kontrollstrukturen/2_Kontrollstrukturen.iml" filepath="$PROJECT_DIR$/2_Kontrollstrukturen/2_Kontrollstrukturen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Arrays/3_Arrays.iml" filepath="$PROJECT_DIR$/3_Arrays/3_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Strings/5_Strings.iml" filepath="$PROJECT_DIR$/5_Strings/5_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Methoden/de.dhbwka.java.exercise.methods/A_Module/A_Module.iml" filepath="$PROJECT_DIR$/6_Methoden/de.dhbwka.java.exercise.methods/A_Module/A_Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/A_Radio/A_Radio.iml" filepath="$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/A_Radio/A_Radio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Methoden/de.dhbwka.java.exercise.methods/B_Fibonacci/B_Fibonacci.iml" filepath="$PROJECT_DIR$/6_Methoden/de.dhbwka.java.exercise.methods/B_Fibonacci/B_Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/B_ZweidimensionalerPunkt/B_ZweidimensionalerPunkt.iml" filepath="$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/B_ZweidimensionalerPunkt/B_ZweidimensionalerPunkt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/C_Bankkonto/C_Bankkonto.iml" filepath="$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/C_Bankkonto/C_Bankkonto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Methoden/de.dhbwka.java.exercise.methods/C_Quicksort/C_Quicksort.iml" filepath="$PROJECT_DIR$/6_Methoden/de.dhbwka.java.exercise.methods/C_Quicksort/C_Quicksort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/D_Polynom/D_Polynom.iml" filepath="$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/D_Polynom/D_Polynom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/E_KomplexeZahlen/E_KomplexeZahlen.iml" filepath="$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/E_KomplexeZahlen/E_KomplexeZahlen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/F_HornerSchema/F_HornerSchema.iml" filepath="$PROJECT_DIR$/4_Klassen/de.dhbwka.java.exercise.classes/F_HornerSchema/F_HornerSchema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probeklausur_I/Probeklausur_I.iml" filepath="$PROJECT_DIR$/Probeklausur_I/Probeklausur_I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProgrammierenI.iml" filepath="$PROJECT_DIR$/.idea/ProgrammierenI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_Vererbung/de.dhbwka.java.exercise.classes.periodic/de.dhbwka.java.exercise.classes.periodic.iml" filepath="$PROJECT_DIR$/7_Vererbung/de.dhbwka.java.exercise.classes.periodic/de.dhbwka.java.exercise.classes.periodic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_Vererbung/de.dhbwka.java.exercise.classes.vehicles/de.dhbwka.java.exercise.classes.vehicles.iml" filepath="$PROJECT_DIR$/7_Vererbung/de.dhbwka.java.exercise.classes.vehicles/de.dhbwka.java.exercise.classes.vehicles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probeklausur_I/de.dhbwka.java.exercise.speedy/de.dhbwka.java.exercise.speedy.iml" filepath="$PROJECT_DIR$/Probeklausur_I/de.dhbwka.java.exercise.speedy/de.dhbwka.java.exercise.speedy.iml" />
+    </modules>
+  </component>
+</project>
